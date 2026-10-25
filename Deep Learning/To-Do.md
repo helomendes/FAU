@@ -9,7 +9,7 @@
 ### Feed Forward Networks
 - [x] Lecture #5
 - [x] Lecture #6
-- [ ] Lecture #7
+- [x] Lecture #7
 - [ ] Lecture #8
 
 ## 26/10 - 30/10

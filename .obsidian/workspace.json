@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "719d8251ae9d45f7",
+            "id": "43153cc921556457",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Deep Learning/Lectures.md"
+                "file": "Deep Learning/To-Do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Lectures"
+              "icon": "lucide-file",
+              "title": "To-Do"
             }
           }
         ]
@@ -187,9 +189,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "719d8251ae9d45f7",
+  "active": "43153cc921556457",
   "lastOpenFiles": [
-    "Deep Learning/To-Do.md",
-    "Deep Learning/Lectures.md"
+    "Deep Learning/Lectures.md",
+    "Deep Learning/To-Do.md"
   ]
 }
